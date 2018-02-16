@@ -1,0 +1,25 @@
+Variable:  z_11
+Value: 21
+-----
+Variable: var_2
+Value: 30
+-----
+Variable: p_52
+Value: 52
+-----
+Variable: ls_20
+Value: 22
+-----
+Variable: l_20
+Value: 20
+-----
+Variable: k_27
+Value: 4
+-----
+Variable: id_1
+Value: 350
+-----
+Variable: f_32
+Value: 10
+-----
+</END OF LIST/>
